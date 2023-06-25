@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  RickAndMortyApp
+//
+//  Created by Emerson Balahan Varona on 23/6/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+ONLY_ACTIVE_ARCH = YES
+MACOSX_DEPLOYMENT_TARGET = 13.0
