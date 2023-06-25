@@ -50,7 +50,7 @@ final class APPLocationDetailViewController: UIViewController, APPLocationDetail
     }
 
     @objc private func didTapShare() {
-
+        // TODO: Share location detail
     }
 
     // MARK: - View Delegate
